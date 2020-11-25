@@ -33,7 +33,6 @@ fn loop_two() {
     }
 }
 
-
 // iter_mut - This mutable borrows each element of the collection, allowing for the collection to
 // be modified in place.
 
@@ -53,4 +52,3 @@ fn main() {
     loop_two();
     loop_three();
 }
-
