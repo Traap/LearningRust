@@ -1,0 +1,12 @@
+mkdir 12-Cargo
+mkdir 13-Attributes
+mkdir 15-ScopingRules
+mkdir 16-Traits
+mkdir 17-MacroRules
+mkdir 18-ErrorHandling
+mkdir 19-Std-Library-Types
+mkdir 20-Std-Misc
+mkdir 21-Testing
+mkdir 22-UnsafeOperations
+mkdir 23-Compatibility
+mkdir 24-Meta
