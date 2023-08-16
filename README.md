@@ -13,5 +13,6 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 
 ## Scratch pad.  Commands are sent to tmux-runner pain.
+### Guessing game
 cargo new guessing_game
-cd guessing_game && cargo run
+cd guessing_game && cargo run && cd ..
