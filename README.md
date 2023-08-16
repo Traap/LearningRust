@@ -11,3 +11,7 @@ https://www.rust-lang.org/tools/install
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
+
+## Scratch pad.  Commands are sent to tmux-runner pain.
+cargo new guessing_game
+cd guessing_game && cargo run
