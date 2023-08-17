@@ -13,6 +13,10 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 
 ## Scratch pad.  Commands are sent to tmux-runner pain.
+### Literals and operators
+cd 02-Primatives && rustc literals.rs && ./literals && cd ..
+
 ### Guessing game
 cargo new guessing_game
 cd guessing_game && cargo run && cd ..
+cd guessing_game && cargo build && cd ..
